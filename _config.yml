@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Mathis Hardion
 
 # Your name to show in the footer
-author: Some Person
+author: Mathis Hardion
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -48,7 +48,7 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mathis.hardion@telecom-paris.fr"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: mhardion
   linkedin: mathis-hardion-9658201bb
 #  medium: yourname
