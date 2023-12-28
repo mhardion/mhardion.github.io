@@ -1,5 +1,6 @@
 ---
 layout: page
+post_search: false
 title: Mathis Hardion
 ---
 <p style="text-align: center;"><img src="https://mhardion.github.io/assets/img/pro.jpg" alt="Picture" width="128"></p>
