@@ -11,6 +11,6 @@ Below are some of the research project reports and presentations I have made dur
 
 [Report: Generalized Sliced Distances for Probability Distributions](assets/pdf/report_OT_HARDION.pdf), [Slides](assets/pdf/HARDION_Slides.pdf)
 
-[Presentation: FibeRed: Fiberwise Dimensionality Reduction of Topologically Complex Data with Vector Bundles](assets/pdf/TDA__FibeRed.pdf)
+[Presentation: FibeRed: Fiberwise Dimensionality Reduction of Topologically Complex Data with Vector Bundles](assets/pdf/TDA__FibeRed.pdf) (with Chen Yiyuan, Mathis Reymond)
 
 [Reading note on NMF](assets/pdf/Reading_Note_NMF_HARDION.pdf)
