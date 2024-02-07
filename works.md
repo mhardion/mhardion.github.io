@@ -13,4 +13,6 @@ Below are some of the research project reports and presentations I have made dur
 
 [Presentation: FibeRed: Fiberwise Dimensionality Reduction of Topologically Complex Data with Vector Bundles](assets/pdf/TDA__FibeRed.pdf) (with Chen Yiyuan, Mathis Reymond)
 
+[Presentation: Riemanniann Manifold Hamiltonian Monte Carlo](assets/pdf/Compstats_Presentation.pdf) (with [Samuel Bazaz Jazayeri](https://www.linkedin.com/in/samuel-bazaz-jazayeri-a522b9200/))
+
 [Reading note on NMF](assets/pdf/Reading_Note_NMF_HARDION.pdf)
