@@ -5,7 +5,7 @@ title: Works
 
 Below are some of the research project reports and presentations I have made during the MVA and my M1 at Télécom Paris.
 
-[Report: Neural Optimal Transport](assets/pdf/GenerativeModelingProjectHardionOlivier) (with [Antoine Olivier](https://www.linkedin.com/in/antoine-olivier-6248a5273/))
+[Report: Neural Optimal Transport](assets/pdf/GenerativeModelingProjectHardionOlivier.pdf) (with [Antoine Olivier](https://www.linkedin.com/in/antoine-olivier-6248a5273/))
 
 [Report: Variational Learning of Inducing Variables in Sparse Gaussian Processes](assets/pdf/4-Hardion-Haubert.pdf) (with [Lucas Haubert](https://www.linkedin.com/in/lucas-haubert-b668a421a/))
 
