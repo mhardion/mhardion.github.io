@@ -3,13 +3,13 @@ layout: page
 title: Works
 ---
 
-# Master Thesis
+# Master Thesis (2024)
 
-[Gradient Flows in the Geometry of the Sinkhorn Divergence](assets/pdf/sinkhorn_flows.pdf) ([Defense slides](assets/pdf/sinkhorn_flows_slides.pdf))
+[Gradient Flows in the Geometry of the Sinkhorn Divergence](assets/pdf/sinkhorn_flows.pdf), [Defense slides](assets/pdf/sinkhorn_flows_slides.pdf) (thesis supervised by [Hugo Lavenant](https://hugolav.github.io))
 
 # Academic projects
 
-Below are some of the research project reports and presentations I have made during the MVA and my M1 at Télécom Paris.
+Below are some of the research project reports and presentations I have made during the MVA (2023-2024) and my M1 at Télécom Paris (2022-2023).
 
 [Report: Neural Optimal Transport](assets/pdf/GenerativeModelingProjectHardionOlivier.pdf), [Slides](assets/pdf/GenerativeModelingPresentationHardionOlivier.pdf) (with [Antoine Olivier](https://www.linkedin.com/in/antoine-olivier-6248a5273/))
 
