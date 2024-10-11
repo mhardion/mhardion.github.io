@@ -3,7 +3,7 @@ layout: page
 title: Works
 ---
 
-# Master Thesis (2024)
+# Master thesis (2024)
 
 [Gradient Flows in the Geometry of the Sinkhorn Divergence](assets/pdf/sinkhorn_flows.pdf), [Defense slides](assets/pdf/sinkhorn_flows_slides.pdf) (thesis supervised by [Hugo Lavenant](https://hugolav.github.io))
 
