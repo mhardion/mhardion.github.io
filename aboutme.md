@@ -13,4 +13,4 @@ My current interests lie within the theory of optimal transport and its entropic
 I am also curious about applications to the field of climate and ecology, and hope to explore meaningful intersections with my current field.
 
 # CV
-[Mathis Hardion - CV](assets/pdf/cv.pdf) (updated {% last_modified: "assets/pdf/cv.pdf" %})
+[Mathis Hardion - CV](assets/pdf/cv.pdf) (updated February 2025)
