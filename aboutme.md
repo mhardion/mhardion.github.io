@@ -2,9 +2,8 @@
 layout: page
 title: Mathis Hardion
 ---
-<p style="text-align:center; margin: 15px"><img src="https://mhardion.github.io/assets/img/pro++_resized.png" alt="Picture" width="100"></p>
-
 # Short presentation
+<p style="float:left;margin:0px 10px 0px 0px"><img src="https://mhardion.github.io/assets/img/pro++_resized.png" alt="Picture" width="200"></p>
 
 I have recently graduated from [ENS Paris-Saclay](https://ens-paris-saclay.fr)'s [MVA](https://www.master-mva.com) (Mathematics, Vision, Learning) master program, and from [Télécom Paris](https://www.telecom-paris.fr)' engineering curriculum with a specialization in stochastic modelling, numerical analysis, signal processing and machine learning. I have conducted my master's research internship under the supervision of [Hugo Lavenant](https://hugolav.github.io/) at [Bocconi University](https://www.unibocconi.eu/), where I researched gradient flows in the geometry of the Sinkhorn divergence (see the [research](research) section). I am set to start a PhD in entropic optimal transport, gradient flows and applications this September.
 
