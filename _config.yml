@@ -22,6 +22,7 @@ author: Mathis Hardion
 navbar-links:
   About Me: "aboutme"
   Research: "research"
+  MSc projects: "mscprojects"
 
 ################
 # --- Logo --- #
@@ -47,7 +48,7 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mathis.hardion@protonmail.com"
+  email: "mathis.hardion2@univ-eiffel.fr"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: mhardion
   linkedin: mathis-hardion-9658201bb
@@ -67,7 +68,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0009-0009-6088-2862
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
