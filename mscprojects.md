@@ -1,7 +1,12 @@
-# Master's thesis
-My thesis "Gradient flows in the geometry of the Sinkhorn divergence" was made at [Bocconi university](https://www.unibocconi.eu/) under the supervision of [Hugo Lavenant](https://hugolav.github.io/). It led to the article "Gradient Flows of Potential Energies in the Geometry of Sinkhorn Divergences", see [Research](research).
+---
+layout: page
+title: MSc projects
+---
 
-# MSc projects
+# Master's thesis
+My thesis "Gradient flows in the geometry of the Sinkhorn divergence" was made at [Bocconi university](https://www.unibocconi.eu/) under the supervision of [Hugo Lavenant](https://hugolav.github.io/). It led to the article ["Gradient Flows of Potential Energies in the Geometry of Sinkhorn Divergences"](https://arxiv.org/abs/2511.14278) (see also [Research](research)).
+
+# Other projects
 
 Below are some of the research project reports and presentations I have made during the MVA (2023-2024) and my Master's year 1 at Télécom Paris (2022-2023).
 
