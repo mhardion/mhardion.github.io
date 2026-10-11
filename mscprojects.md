@@ -4,7 +4,7 @@ title: MSc projects
 ---
 
 # Master's thesis
-My thesis "Gradient flows in the geometry of the Sinkhorn divergence" was made at [Bocconi university](https://www.unibocconi.eu/) under the supervision of [Hugo Lavenant](https://hugolav.github.io/). It led to the article ["Gradient Flows of Potential Energies in the Geometry of Sinkhorn Divergences"](https://arxiv.org/abs/2511.14278) (see also [Research](research)).
+My thesis "Gradient flows in the geometry of the Sinkhorn divergence" was made at [Bocconi university](https://www.unibocconi.eu/) under the supervision of [Hugo Lavenant](https://hugolav.github.io/). It led to the article ["Gradient Flows of Potential Energies in the Geometry of Sinkhorn Divergences"](https://arxiv.org/abs/2511.14278) (see also [Publications](publications)).
 
 # Other projects
 
